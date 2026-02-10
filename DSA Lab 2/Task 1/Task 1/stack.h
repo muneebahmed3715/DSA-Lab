@@ -2,7 +2,7 @@
 #define STACK_H
 
 template <class T>
-class DynamicStack {       //class created
+class DynamicStack {       //cllass created
 private:
     T* arr;
     int top;

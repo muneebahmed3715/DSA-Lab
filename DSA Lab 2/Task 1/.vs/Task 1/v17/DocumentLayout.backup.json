@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|solutionrelative:Task 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|solutionrelative:Task 1\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|solutionrelative:Task 1\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{544C9DE4-1131-4735-8309-332093B99A73}|Task 1\\Task 1.vcxproj|solutionrelative:Task 1\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,12 +34,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "stack.h",
               "DocumentMoniker": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.h",
               "RelativeDocumentMoniker": "Task 1\\stack.h",
-              "ToolTip": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.h*",
-              "RelativeToolTip": "Task 1\\stack.h*",
+              "ToolTip": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.h",
+              "RelativeToolTip": "Task 1\\stack.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-09T10:43:55.125Z",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "stack.cpp",
               "DocumentMoniker": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.cpp",
               "RelativeDocumentMoniker": "Task 1\\stack.cpp",
-              "ToolTip": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.cpp*",
-              "RelativeToolTip": "Task 1\\stack.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\stack.cpp",
+              "RelativeToolTip": "Task 1\\stack.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-09T10:39:04.552Z",
               "EditorCaption": ""
@@ -64,9 +64,9 @@
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\main.cpp",
               "RelativeDocumentMoniker": "Task 1\\main.cpp",
-              "ToolTip": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\main.cpp*",
-              "RelativeToolTip": "Task 1\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ToolTip": "E:\\DSA Lab\\DSA Lab 2\\Task 1\\Task 1\\main.cpp",
+              "RelativeToolTip": "Task 1\\main.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-09T10:38:08.301Z",
               "EditorCaption": ""
